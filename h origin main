@@ -1,0 +1,45 @@
+[33mcommit c7cf2724a24d1bc079ad3eb98a81b4e8790ac630[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 819e0f0d f6b68b9e
+Author: Gopi456 <adapagopireddy4@gmail.com>
+Date:   Mon Dec 30 17:23:33 2024 +0530
+
+    Merge branch 'master' of https://github.com/Gopi456/PDFQA-Application
+    Merge branch 'master' of https://github.com/Gopi456/PDFQA-Application
+    
+    Resolved conflicts and merged remote changes.
+
+[33mcommit 819e0f0d7044e713e21619b3586ff7976fd44705[m
+Author: Gopi456 <adapagopireddy4@gmail.com>
+Date:   Mon Dec 30 17:19:01 2024 +0530
+
+    Initial commit
+
+[33mcommit 563f31dbef0b221d2d4def561c6c68be53f475d7[m
+Author: Gopi456 <adapagopireddy4@gmail.com>
+Date:   Mon Dec 30 17:16:12 2024 +0530
+
+    Add pdf-qa folder as a regular directory
+
+[33mcommit bac5d6c449698292fd405675e9cd9e5f9e489473[m
+Author: Gopi456 <adapagopireddy4@gmail.com>
+Date:   Mon Dec 30 17:08:21 2024 +0530
+
+    Update .gitignore to exclude node_modules
+
+[33mcommit f6b68b9e9a1448bd2df147f9ee307df740fcd00f[m
+Author: GOPI REDDY ADAPA <109288410+Gopi456@users.noreply.github.com>
+Date:   Mon Dec 30 16:46:37 2024 +0530
+
+    Delete pdf-qa directory
+
+[33mcommit ab48d0f21015e38e5b1d016532ffaf13036cc7e7[m
+Author: GOPI REDDY ADAPA <109288410+Gopi456@users.noreply.github.com>
+Date:   Mon Dec 30 16:43:09 2024 +0530
+
+    Create temp
+
+[33mcommit 70ed25236cd660b421c44a6dd8b619a884fbc803[m
+Author: Gopi456 <adapagopireddy4@gmail.com>
+Date:   Mon Dec 30 15:48:11 2024 +0530
+
+    commit
